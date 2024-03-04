@@ -1,1 +1,1 @@
-Javascript lessons from Codecademy!
+# Lessons/Tasks/Projects I completed on the SQL Codecademy Course.
